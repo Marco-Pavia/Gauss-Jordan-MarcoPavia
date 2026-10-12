@@ -23,3 +23,10 @@ El proyecto está desarrollado en Java bajo una arquitectura modular y el princi
 3. Compila todos los archivos fuente con el siguiente comando:
    ```bash
    javac Ecuaciones_lineales/*.java
+   
+## Ejemplo de Prueba - Salida por Consola
+
+Soluciones del sistema por el método de Gauss-Jordan:
+x1 = 3.0
+x2 = -2.5
+x3 = 7.000000000000002
