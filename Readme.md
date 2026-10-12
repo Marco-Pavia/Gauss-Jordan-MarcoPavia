@@ -19,10 +19,11 @@ El proyecto está desarrollado en Java bajo una arquitectura modular y el princi
 ##  Pasos para Compilar y Ejecutar en Java
 
 1. Asegúrate de tener instalado **Java JDK** en tu computadora.
-2. Abre tu terminal o línea de comandos en la carpeta raíz del proyecto (donde se encuentra el paquete `Ecuaciones_lineales`).
-3. Compila todos los archivos fuente con el siguiente comando:
+2. Abre tu terminal o línea de comandos en la carpeta del proyecto `Gauss-Jordan`).
+3. Compila el lanzador desde la carpeta src:
    ```bash
-   javac Ecuaciones_lineales/*.java
+   cd "C:\RutaDeTuEquipo\Gauss-Jordan\src"
+   Lanzador_GaussJordan.java
    
 ## Ejemplo de Prueba - Salida por Consola
 
